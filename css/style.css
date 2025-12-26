@@ -60,7 +60,7 @@ body {
   align-items: center;
   gap: 24px;
   padding: 48px min(6vw, 200px);
-  background-image: url(/assets/Images/irregular-memphis-playful-abstract-portfolio-pink-fluid-powerpoint-background_62bc5b7b85__960_540.avif);
+  background-image: url(../assets/Images/irregular-memphis-playful-abstract-portfolio-pink-fluid-powerpoint-background_62bc5b7b85__960_540.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -371,4 +371,5 @@ hr {
 @keyframes fadeInDown {
   from {opacity: 0; transform: translateY(-10px);}
   to {opacity: 1; transform: translateY(0);}
+
 }
